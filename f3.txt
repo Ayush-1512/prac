@@ -1,4 +1,4 @@
-:f3
+::f3
 a
 modified
 f3
