@@ -1,4 +1,2 @@
-::f3
-a
-modified
 f3
+
