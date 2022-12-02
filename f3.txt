@@ -4,3 +4,8 @@ f3
 3 gain
 gain
 3
+f
+g
+g
+
+g
